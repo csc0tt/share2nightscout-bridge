@@ -48,6 +48,7 @@ see the [wiki][wiki] for current install information.
 * `DEXCOM_ACCOUNT_NAME` - Your Dexcom Share2 username
 * `DEXCOM_PASSWORD` - Your Dexcom Share2 password
 * `WEBSITE_HOSTNAME` - The host name for your Nightscout website.  Example: sitename.herokuapp.com or sitename.azurewebsites.net.
+* `BRIDGE_SERVER` - Set to EU if outside the US (Use Clarity EU servers) 
 
 #### Optional
 
